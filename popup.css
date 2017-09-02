@@ -1,0 +1,29 @@
+h1, h2, body, div, label, input, p, span {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.col {
+  flex-direction: column;
+  padding: .5em;
+}
+.row {
+  width: 120px;
+}
+.pt-5 {
+  padding-top: .5em;
+}
+label[for="quickLogin"] {
+  cursor: pointer;
+  width: 100%;
+}
+/* TODO: Custom CSS Style */
+input[type="checkbox"] {
+  margin-top: 3px;
+}
+input[type="checkbox"] + label:after {
+  content: "Off (Wait 3s)";
+}
+input[type="checkbox"]:checked + label:after {
+  content: "On";
+}
