@@ -12,3 +12,9 @@ Otherwise, you will have 3 seconds delay, and in the meanwhile you could click t
 Visit the [chrome web store](https://chrome.google.com/webstore/detail/myneu-autologin/epjnkjmpghgdlemckehgkjbnblbcchmc).
 ## License
 [WTFPL](http://www.wtfpl.net/)
+## Change Log
+### 1.0.1
+- icons for different sizes
+- pack script
+### 1.0
+init
