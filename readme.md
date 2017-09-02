@@ -9,6 +9,6 @@ If you enable the `Quick Login` feature, you will login immediate after you visi
 Otherwise, you will have 3 seconds delay, and in the meanwhile you could click the `Cancel` button and the countdown will stop.
 ![](./cancel.gif)
 ## Installation
-Visit the [Chrome web store](https://chrome.google.com/webstore/detail/myneu-autologin/epjnkjmpghgdlemckehgkjbnblbcchmc).
+Visit the [chrome web store](https://chrome.google.com/webstore/detail/myneu-autologin/epjnkjmpghgdlemckehgkjbnblbcchmc).
 ## License
 [WTFPL](http://www.wtfpl.net/)
